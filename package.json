@@ -1,0 +1,19 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wds --node-resolve"
+  },
+  "dependencies": {
+    "@assecosolutions/fox-activity-list": "^1.0.4",
+    "@assecosolutions/fox-icon-button": "^1.5.23",
+    "@material/mwc-button": "^0.25.3",
+    "@material/mwc-icon-button": "^0.25.3",
+    "@material/mwc-menu": "^0.25.3",
+    "lit": "^2.2.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.30"
+  }
+}
